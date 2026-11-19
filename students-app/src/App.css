@@ -1,0 +1,25 @@
+main {
+  max-width: 480px;
+  margin: 40px auto;
+  padding: 0 16px;
+  font-family: system-ui, sans-serif;
+}
+
+h1 {
+  margin-bottom: 24px;
+}
+
+article {
+  border: 1px solid #ddd;
+  border-radius: 12px;
+  padding: 16px;
+  margin-bottom: 12px;
+  background: #fafafa;
+}
+
+button {
+  margin-right: 8px;
+  margin-top: 8px;
+  padding: 8px 12px;
+  cursor: pointer;
+}
